@@ -1,0 +1,172 @@
+A_Resource_Whose_Name = rubrical_en_US_unknown
+
+ru.AfterEachPetition = ""
+
+ru.And = "and:"
+
+ru.AndTheFollowing = ""
+
+ru.Aloud = "(aloud)"
+
+ru.AndAgain = "And again:"
+
+ru.AndThen = "And then:"
+
+ru.Antiphon1OfMode4 = "Antiphon I of Mode 4."
+
+ru.BeginMatins = "And then Matins begins."
+
+ru.BeginVespers = "And Vespers commences immediately with, “Come, let us worship…”"
+
+ru.BlessingWithTheCross = ""
+
+ru.ChoirLeftBegins = ""
+
+ru.ChoirRightBegins = ""
+
+ru.ChoirRepeatsTwice = ""
+
+ru.ContinueBasilLiturgy = "Continue with the Liturgy of St. Basil the Great."
+
+ru.ContinueLiturgy = "Continue with the rest of the Divine Liturgy."
+
+ru.CrossLitany = ""
+
+ru.DifferentMenaionCanonInEnglish = "The Menaion canon presented here is not the same as the Greek. Due to unavailability of a free full Menaion in English, we are using a general canon for today’s commemoration."
+
+ru.DifferentMenaionSticheraInEnglish = "The Menaion stichera presented here are not the same as the Greek. Due to unavailability of a free full Menaion in English, we are using stichera from the General Menaion for today’s commemoration."
+
+ru.DuringPaschalSeasonUse = "During the Paschal season use the following:"
+
+ru.EntranceWithGospel = ""
+
+ru.Extended = "(extended)"
+
+ru.FacingThrone = ""
+
+ru.FastButNotSaturday = "Fast day (wine and oil allowed on Saturday)."
+
+ru.Forty = "(40)"
+
+ru.FromTheAltarTable = ""
+
+ru.FromTheGate = ""
+
+ru.HierarchicalKairosAtLauds = "The hierarch takes “kairon” in preparation for the Divine Liturgy, as the right choir slowly sings “Ton Despotin…” When he is finished, the hierarch blesses the people with the candles, as the left choir sings “Eis polla eti, despota,” and he enters the altar. Then the choirs resume singing Lauds."
+
+ru.HolidayAll = "Holiday. All foods allowed."
+
+ru.HolidayChristmas = "Three-day Holiday, and all foods allowed from today through January 4."
+
+ru.HolidayFast = "Holiday and strict fast."
+
+ru.HolidayFish = "Holiday. Fish allowed."
+
+ru.HolidayWineOil = "Holiday. Wine and oil allowed."
+
+ru.IfExistsIfNot = ""
+
+ru.IfLityDoneAtVespers = ""
+
+ru.IfLityNotDoneAtVespers = ""
+
+ru.InALowVoice = "(in a low voice)"
+
+ru.InALowVoiceFacingAltar = ""
+
+ru.Inaudibly = "(inaudibly)"
+
+ru.InPlaceOfRightChoir = "(in place of the Right Choir)"
+
+ru.Intoned = "(intoned)"
+
+ru.IntonedAfterEachPetition = ""
+
+ru.LityLordHaveMercy101010103 = "As the deacon or priest intones the following long petition, the choirs sing “Lord, have mercy” 40 times quickly, in sets of ten, antiphonally, then 3 slowly."
+
+ru.LocalChurchApolytikionSung = "The Apolytikion of the parish church is sung."
+
+ru.MenaionSynaxarionNote = ""
+
+ru.NoEntrance = "(No Entrance)"
+
+ru.NoEvlogetaria = ""
+
+ru.OmitMagnificat = "The Magnificat is omitted."
+
+ru.Once = "(once)"
+
+ru.OnceOrThrice = ""
+
+ru.Optional = "Optional:"
+
+ru.Or = "or:"
+
+ru.OrAccordingToCommonPractice = "Or, according to common practice:"
+
+ru.OrAccordingToOlderPractice = ""
+
+ru.OtherwiseTheFollowing = ""
+
+ru.Read = "(read)"
+
+ru.RelaxedFish = "Fasting is relaxed for the brethren; we may eat fish."
+
+ru.SlowlyFromWithinTheAltar = ""
+
+ru.Sung = "(sung)"
+
+ru.SungSlowly = "(sung slowly)"
+
+ru.Then = ""
+
+ru.ThenSingSlowly = "Then we sing the following slowly."
+
+ru.ThreeTimesDayHoliday = "Three-day holiday."
+
+ru.ThreeTimes = "(3)"
+
+ru.Thrice = "(3)"
+
+ru.TriodionSynaxarion = "The “Synaxarion” (List of Saints, of the day) is read from the Menaion Book, and from the Triodion book, as follows:"
+
+ru.Twelve = "(12)"
+
+ru.Twice = "(2)"
+
+ru.TwiceWithNoVerse = "Twice, with no verse."
+
+ru.TwOrMorePriests = ""
+
+ru.VigilEntry = ""
+
+ru.WhenNoPriest = ""
+
+ru.WineOil = "Wine and oil allowed."
+
+ru.WithoutVersesComingBefore = ""
+
+ru.fasting.rule.title = ""
+ru.fasting.rule.strict = ""
+ru.fasting.rule.oil = ""
+ru.fasting.rule.fish = ""
+ru.fasting.rule.dairy = ""
+ru.fasting.rule.free = ""
+
+ru.fasting.explanation.title = ""
+ru.fasting.explanation.triodion1 = ""
+ru.fasting.explanation.triodion3 = ""
+ru.fasting.explanation.lent = ""
+ru.fasting.explanation.lentweekend = ""
+ru.fasting.explanation.holyweek = ""
+ru.fasting.explanation.wedfri = ""
+ru.fasting.explanation.minorfeast = ""
+ru.fasting.explanation.majorfeast = ""
+ru.fasting.explanation.christmas12days = ""
+ru.fasting.explanation.paschal = ""
+ru.fasting.explanation.pentecost = ""
+ru.fasting.explanation.apostlesfast = ""
+ru.fasting.explanation.dormitionfast = ""
+ru.fasting.explanation.christmasfast = ""
+
+ru.unavailable.octoechos = ""
