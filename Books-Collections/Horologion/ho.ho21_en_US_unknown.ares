@@ -8,7 +8,7 @@ hoCA.poet = ""
 
 hoCA.media.text = "" //for complete music
 
-R01 = ""
+R01.rubric = ""
 
 hoCA.Ode11.ode = miscellanea_en_US_unknown.misc.Ode1
 hoCA.Ode11.mode = miscellanea_en_US_unknown.misc.Mode2
@@ -173,10 +173,10 @@ hoCA.Ode9T.melody = he.h.m2_en_US_unknown.heHE.AnarchouGennitoros.name
 hoCA.Ode9T.incipit = "God took flesh of your…"
 hoCA.Ode9T.text = "God took flesh of your pure blood, wherefore, every generation hymns you, O Lady, and the multitudes of the noetic beings glorify you; for through you we have clearly seen the Master of all, Who assumed the nature of man."
 
-R02 = ""
+R02.rubric = ""
 
 hoPrayer.Key000.title = "On the Following Day"
-R03 = "The morning on which you will receive Holy Communion, read the following as your Morning Prayer."
+R03.rubric = "The morning on which you will receive Holy Communion, read the following as your Morning Prayer."
 hoPrayer.Key001.title = "Then the following Troparia:"
 hoPrayer.Key001.incipit = "Overlook my iniquities…" //oc.m2.d2_en_US_unknown.ocMA.Aposticha2.text
 hoPrayer.Key001.text = "Overlook my iniquities, O Lord Who was born of a Virgin, and purify my heart, and make it a temple for Your immaculate Body and Blood. Do not cast me away from Your presence as one despised, O You Who has immeasurably great mercy." //oc.m2.d2_en_US_unknown.ocMA.Aposticha2.text
@@ -418,7 +418,7 @@ hoPrayer.Key201_3.text = "immediately give praise and great thanks"
 hoPrayer.Key201_4.text = "and with a fervent soul say to God:"
 hoPrayer.Key201_5.text = "Glory to you, O God. Glory to you, O God. Glory to you, O God."
 
-R04 = "" //Then the following thanksgiving prayers:
+R04.rubric = "" //Then the following thanksgiving prayers:
 
 hoPrayer.Key202.title = "Anonymous"
 hoPrayer.Key202.text = "I thank You, Lord my God, that You have not rejected me, a sinner, but have made me worthy to partake of Your holy Mysteries. I thank You that You have granted me, although I am unworthy, to partake of Your most-pure and heavenly Gifts. Master Who loves mankind, Who died and rose for our sake, and granted to us these awesome and life-giving Mysteries for the well-being and sanctification of our souls and bodies, let these Gifts be for the healing of both soul and body, for the averting of every evil, for the enlightenment of the eyes of my heart, for the peace of the powers of my soul, for faith unashamed, for love unfeigned, for the fullness of wisdom, for the observing of Your commandments, for an increase of Your divine grace, and for the attainment of Your kingdom. Preserved by them in Your holiness, may I always remember Your grace and no longer live for myself, but for You, our Master and Benefactor. And thus, when I depart this life in the hope of eternal life, may I attain everlasting rest, where the sound of those that keep festival is unceasing, and the delight of those who behold the ineffable beauty of Your countenance is unending. For You are the true joy and inexpressible gladness of those who love You, Christ our God, and all creation hymns You to the ages. Amen."
