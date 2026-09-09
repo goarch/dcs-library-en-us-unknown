@@ -460,7 +460,7 @@ heHE.TonExAnarchou.ode = miscellanea_en_US_unknown.misc.Ode8
 heHE.TonExAnarchou.text = ""
 
 heHE.TonYpAngelon.notmetered = "N/M (To Him whom Angels.)"
-heHE.TonYpAngelon.greekname = "Τὸν ὑπʼ Ἀγγέλων."
+heHE.TonYpAngelon.greekname = "Τὸν ὑπ’ Ἀγγέλων."
 heHE.TonYpAngelon.name = "To Him whom Angels."
 heHE.TonYpAngelon.incipit = "…"
 heHE.TonYpAngelon.melody = miscellanea_en_US_unknown.misc.Heirmos
